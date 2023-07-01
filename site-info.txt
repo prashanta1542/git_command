@@ -1,0 +1,4 @@
+site name : shanto-chy-123.000webhostapp.com/
+database name : id20987571_university
+database user : id20987571_root
+password : BxTPhPgzlmnwqHl!1ou1
