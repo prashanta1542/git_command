@@ -1,6 +1,6 @@
-1)git init
-2)git add .
-3)git commit -m
-4)enter username "prashanta1542" and email""
-5)git remote add origin "give your repository url from existing browser"
-6)git push -u origin master
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M master
+git remote add origin https://github.com/prashanta1542/stripe.git
+git push -u origin master
